@@ -23,8 +23,7 @@ data() {
         enableHtml: false,
         fullStyle: [
           `/*
-* 你好,我叫靳肖健.
-* 都说找工作金三银四，可是今年的前端届却不一定，找个好工作,难啊。
+* 你好,我叫有熊肖健.
 * 不过！我会努力的！加油！
 * 自我介绍马上开启!
 * 先开启前端空间 》》》
@@ -150,7 +149,7 @@ a {
 `],
 
 currentMarkdown: '',
-        fullMarkdown: `靳肖健
+        fullMarkdown: `有熊肖健
 ----
 
 前端工程师
@@ -164,11 +163,6 @@ currentMarkdown: '',
   其他常用框架不敢说熟悉，但都接触过)
 * 后端能力还可以吧(php、mysql、node)
 
-工作经历
-----
-
-1. 西安浪美网络科技服务有限公司（前端）
-2. 西安裕日软件有限公司（页面重构）
 
 毕业学校
 ----
@@ -178,8 +172,7 @@ currentMarkdown: '',
 链接
 ----
 
-* [GitHub](http://jxjweb.top/)
-* [技术博客](http://webjxj.sc2yun.com/)
+* [GitHub](http://jxjweb.top)
 
 
 
